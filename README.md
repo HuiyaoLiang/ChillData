@@ -1,4 +1,4 @@
 # ChillData
 
 This repository is for the group submission to the Walmart 2022 Hackathon, under the name ChillingData.
-We focused on the Data Science Problem section, working on understanding the patterns of paths lost pets might take. Using modeling, we aimed to predict where lost pets would go. To this end we used locations, geographical, and urban data and analysis.
+We focused on the Data Science Problem section, working on understanding the patterns of paths lost pets might take. Using modeling, we aimed to predict where lost pets would go. To this end we used locational, geographical, and urban data and analysis.
