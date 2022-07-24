@@ -1,4 +1,20 @@
 # 2022WalmartHackthon-ChillingData
 ###Recommended Base Environment
 -----------
+
  - [R Studio(macOS 10.15+)](https://www.rstudio.com/products/rstudio/download/#download)
+library(sf)
+library(rgdal)
+library(osmdata)
+library(leafsync)
+library(OpenStreetMap)
+library(leaflet)
+library(dplyr)
+library(dbplyr)
+library(readr)
+library(mapview)
+library(geosphere)
+library(jsonlite)
+library(leaflet.extras)
+library(magrittr)
+library(shiny)
