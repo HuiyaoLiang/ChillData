@@ -1,1 +1,4 @@
-
+# 2022WalmartHackthon-ChillingData
+###Recommended Base Environment
+-----------
+ - [R Studio(macOS 10.15+)](https://www.rstudio.com/products/rstudio/download/#download)
